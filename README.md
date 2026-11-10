@@ -26,7 +26,7 @@ The project also implements DHCP, static server addressing, and Extended Access 
 
 | Device | Model | Quantity |
 |---|---|---:|
-| Router | Cisco 2811 | 1 |
+| Router | Cisco 2911 | 1 |
 | Switch | Cisco 2960-24TT | 1 |
 | PCs | PC-PT | 5 |
 | Server | Server-PT | 1 |
