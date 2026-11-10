@@ -101,4 +101,40 @@ Feel free to contact me for professional opportunities and networking collaborat
 
 ---
 
+
+## 📸 Screenshots & Testing Results
+
+This section documents the network configuration and testing results using Cisco Packet Tracer.
+
+### 1. VLAN Configuration
+![VLAN Configuration](Screenshots/01-VLAN-Configuration.png)
+
+### 2. Trunk Configuration
+![Trunk Configuration](Screenshots/02-Trunk-Configuration.png)
+
+### 3. Router Interfaces
+![Router Interfaces](Screenshots/03-Router-Interfaces.png)
+
+### 4. DHCP Pools Details
+![DHCP Pools Details](Screenshots/04-DHCP-Pools-Details.png)
+
+### 5. DHCP Pools Overview
+![DHCP Pools Overview](Screenshots/04-DHCP-Pools-Overview.png)
+
+### 6. DHCP Bindings
+![DHCP Bindings](Screenshots/05-DHCP-Bindings.png)
+
+### 7. ACL Configuration
+![ACL Configuration](Screenshots/06-ACL-Configuration.png)
+
+### 8. ACL Blocking Test
+![ACL Blocking Test](Screenshots/07-ACL-Blocking-Test.png)
+
+### 9. Inter-VLAN Connectivity
+![Inter-VLAN Connectivity](Screenshots/08-Inter-VLAN-Connectivity.png)
+
+### 10. Server Connectivity
+![Server Connectivity](Screenshots/09-Server-Connectivity.png)
+
+---
 ⭐ Thank you for visiting my project!
